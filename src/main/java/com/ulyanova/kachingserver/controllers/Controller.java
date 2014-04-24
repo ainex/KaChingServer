@@ -1,4 +1,4 @@
-package controllers;
+package com.ulyanova.kachingserver.controllers;
 
 /**
  * Created by O_O on 23.04.14.
